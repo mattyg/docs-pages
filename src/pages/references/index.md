@@ -66,3 +66,4 @@ Studying existing Holochain applications and tutorials can provide valuable insi
 
 * [Holochain Open Dev](https://github.com/holochain-open-dev)
 * [Holochain Foundation sample apps](https://github.com/holochain-apps)
+* [Holo developer training materials](https://github.com/holochain-immersive)
